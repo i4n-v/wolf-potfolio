@@ -1,2 +1,2 @@
-# wolf-repository
+# wolf-portfolio
 This is a wolf's portfolio 🐺
